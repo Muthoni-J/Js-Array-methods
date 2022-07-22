@@ -17,7 +17,7 @@ calculateFruitCost(fruitName, quantity)
 For example, calculateFruitCost('orange', 2) should return "2 Oranges for KES 
 60.00"
 
-##Promises on *Mkulima Farm*
+## Promises on *Mkulima Farm*
 Mkulima Platform
 Mkulima is new Kenyan business-to-business (B2B) agro-startup focusing on connecting grocery vendors to rural farmers. This is through their online marketplace where farmers can trade vegetables and fruits with grocery vendors. To begin with, farmers have to register on the platform and login. Thereafter, they can upload their products with respective prices. On the other hand, grocery vendors can signup and login to the platform to place their bulk order requests. 
 
