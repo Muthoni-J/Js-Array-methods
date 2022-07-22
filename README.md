@@ -17,3 +17,4 @@ calculateFruitCost(fruitName, quantity)
 For example, calculateFruitCost('orange', 2) should return "2 Oranges for KES 
 60.00"
 
+
